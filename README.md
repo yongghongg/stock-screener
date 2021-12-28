@@ -3,6 +3,11 @@ I write about programming and stock technical analysis on [Medium](https://yongh
 <br>
 Subscribe via this [link](https://yonghongtan.medium.com/membership) for unlimited access!
 
+# Support Me
+
+<a href="https://www.buymeacoffee.com/yonghongtan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" ></a>
+
+
 # Article List
 
 ## Stock trading related
